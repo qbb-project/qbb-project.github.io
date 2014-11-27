@@ -1,1 +1,1 @@
-include: ['echelon/_test']
+include: ['_static', '_sources', '_images']
