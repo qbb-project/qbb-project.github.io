@@ -6,9 +6,9 @@
 </description>
     <link>http://qbb-project.org/</link>
     <atom:link href="http://qbb-project.org/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Mar 2016 21:51:45 +0100</pubDate>
-    <lastBuildDate>Sun, 06 Mar 2016 21:51:45 +0100</lastBuildDate>
-    <generator>Jekyll v3.1.2</generator>
+    <pubDate>Fri, 09 Dec 2016 13:35:14 +0100</pubDate>
+    <lastBuildDate>Fri, 09 Dec 2016 13:35:14 +0100</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
       <item>
         <title>Talk about Qubus</title>
